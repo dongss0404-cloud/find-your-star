@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Purpose Guide",
+  "description": "A deep, immersive voice journey to discover your unique career path and cosmic meaning using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
